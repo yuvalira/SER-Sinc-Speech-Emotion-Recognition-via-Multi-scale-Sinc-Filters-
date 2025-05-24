@@ -75,20 +75,20 @@ Unlike traditional models that rely on handcrafted features (e.g., MFCC + LSTM),
 ## References
 
 1. **MS-SincResNet** – Chang et al., 2021  
-   [🔗 Paper](https://arxiv.org/pdf/2109.08910)
+   [Paper](https://arxiv.org/pdf/2109.08910)
 
 2. **Raw Waveforms for SER** – Kilimci et al., 2023  
-   [🔗 Paper](https://arxiv.org/abs/2307.02820)
+   [Paper](https://arxiv.org/abs/2307.02820)
 
 3. **MFCC + CNN-LSTM Benchmark** – Ouyang, 2025  
-   [🔗 Paper](https://arxiv.org/abs/2501.10666)
+   [Paper](https://arxiv.org/abs/2501.10666)
 
 4. **RAVDESS Dataset** – Livingstone & Russo, 2018  
-   [🔗 Dataset](https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio)
+   [Dataset](https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio)
 
 ---
 
-## ⚠Known Challenges
+## Known Challenges
 
 - Small dataset size → Risk of overfitting  
 - Emotion confusion (e.g., Fear vs. Surprise)  
