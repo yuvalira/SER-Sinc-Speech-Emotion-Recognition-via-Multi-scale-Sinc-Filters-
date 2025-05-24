@@ -1,6 +1,6 @@
 # SER-Sinc: Speech Emotion Recognition via Multi-scale Sinc Filters
 
-**Final Project - BGU Software Engineering Department**  
+**BGU Software Engineering Department - Deep Audio Processing**  
 By: Yuval Ratzabi, Gal Zohar, Tomer Baziza, Tomer Abram
 
 ---
