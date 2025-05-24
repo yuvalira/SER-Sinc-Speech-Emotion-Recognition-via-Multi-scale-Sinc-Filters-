@@ -1,4 +1,3 @@
-# SER-Sinc-Speech-Emotion-Recognition-via-Multi-scale-Sinc-Filters
 # SER-Sinc: Speech Emotion Recognition via Multi-scale Sinc Filters
 
 **Final Project - BGU Software Engineering Department**  
