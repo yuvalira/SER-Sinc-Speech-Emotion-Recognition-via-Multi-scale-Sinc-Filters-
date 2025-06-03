@@ -58,14 +58,6 @@ This project investigates the use of **MS-SincResNet**, an architecture original
 
 ---
 
-## Inference
-
-- Input: Raw 3-second waveform at 16 kHz  
-- Output: One-hot class prediction of emotion  
-- Can be extended to real-time with a sliding window approach
-
----
-
 ## Novelty
 
 Unlike traditional models that rely on handcrafted features (e.g., MFCC + LSTM), this project proposes a raw waveform-based solution using multi-scale Sinc filters and deep convolutional layers. This approach provides **end-to-end learning**, improved interpretability, and avoids manual feature engineering.
